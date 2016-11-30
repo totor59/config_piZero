@@ -116,4 +116,5 @@ $ sudo chmod +x motd.sh`
 ### TODO:
 * Installer carte wifi sur le pi
 * Changer hostname
+* Désactiver le port HDMI
 
